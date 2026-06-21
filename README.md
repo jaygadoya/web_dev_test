@@ -1,1 +1,1 @@
-Added this file as part of the new changes in the application.
+Added this file as part of the new changes in the app.
